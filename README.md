@@ -1,6 +1,9 @@
 <img src="https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png"></img>
 ## Install scrapy  
 python -m pip install scrapy  
+#### 若執行發生錯誤  請先下載Wheel&Twisted  
+- Twisted  
+https://pypi.org/project/Twisted/#files  
 
 ## How to use Scrapy
 1. 選擇創建目錄  
